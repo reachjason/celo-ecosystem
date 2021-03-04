@@ -10,6 +10,19 @@ Feedback? Twitter @JasonRogues
 <sup>:link: - Website</sup>
 <sup>:page_facing_up: - Documentation</sup>
 
+- [The Celo Ecosystem](#the-celo-ecosystem)
+    + [Accounting](#accounting)
+    + [Community](#community)
+    + [DeFi](#defi)
+    + [Developer Tools](#developer-tools)
+    + [Earning](#earning)
+    + [Ecosystem Funds](#ecosystem-funds)
+    + [Exchanges and Liquidity](#exchanges-and-liquidity)
+    + [Infrastructure](#infrastructure)
+    + [Payments](#payments)
+    + [Research](#research)
+    + [Security](#security)
+    + [Social Imapct](#social-imapct)
 
 ### Accounting
 * **Cryptio** [<sup>:link:</sup>](https://cryptio.co)
@@ -42,7 +55,7 @@ Feedback? Twitter @JasonRogues
 * **Polychain Ecosystem Fund**
 * **Volt**
 
-### Exchanges & Liquidity
+### Exchanges and Liquidity
 * **Altonomy OTC**
 * **BitGo**
 * **Bitmama** [<sup>:link:</sup>](https://bitmama.io/)
