@@ -1,7 +1,7 @@
 # The Celo Ecosystem
-This is a community-maintained living list that captures all the projects in the Celo ecosystem with a brief description and links.
+This is a community-maintained living list that captures projects in the Celo ecosystem with a brief description and links.
 
-**Note**: This definitely has a lot of work in identifying projects.
+**Note**: This list is certainly not exhaustive. Please call out projects that you see are missing.
 
 Suggestions for more apt descriptions? Missing projects? Pull requests are welcome on README.md (this file). Or simply submit your project to [this form](https://forms.gle/rcxikkRRoS9FptC28).
 
