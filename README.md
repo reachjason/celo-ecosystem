@@ -25,6 +25,8 @@ Feedback? Twitter @JasonRogues
     + [Research](#research)
     + [Security](#security)
     + [Social Imapct](#social-imapct)
+- [Purchase Celo Assets](#purchase-celo-assets)
+
 
 ### Accounting
 * **Cryptio** [<sup>:link:</sup>](https://cryptio.co)
@@ -162,3 +164,28 @@ Feedback? Twitter @JasonRogues
 * **Grameen Foundation** [<sup>:link:</sup>](www.grameenfoundation.org)
 * **Impact Market** [<sup>:link:</sup>](https://impactmarket.com)
 * **Project Wren** [<sup>:link:</sup>](https://projectwren.com/)
+
+# Purchase Celo Assets
+
+### CELO
+* Bilaxy
+* Binance
+* Bittrex
+* Coinbase
+* CoinBene
+* Coinlist
+* Gate.io
+* Hoo
+* Indodax
+* Naijacrypto
+* OKCoin
+* OKEx
+* Rekeningku
+* UPbit Korea
+* UPbit Indonesia
+* VALR
+
+### cUSD
+* Bittrex
+* Coinlist
+* OKCoin
