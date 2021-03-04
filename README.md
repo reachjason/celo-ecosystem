@@ -9,6 +9,7 @@ Feedback? Twitter @JasonRogues
 
 <sup>:link: - Website</sup>
 <sup>:page_facing_up: - Documentation</sup>
+<sup>:computer: - GitHub Repos</sup>
 
 - [The Celo Ecosystem](#the-celo-ecosystem)
     + [Accounting](#accounting)
@@ -129,7 +130,7 @@ Feedback? Twitter @JasonRogues
 * **ZanshinDojo.org** 
 
 ### Interoperability
-* **Keep tBTC** [<sup>:link:</sup>](https://github.com/keep-network/keep-core)
+* **Keep tBTC** [<sup>:link:</sup>](https://keep.network) [<sup>:computer:</sup>](https://github.com/keep-network/keep-core)
 
 ### Payments
 * **Beam And Go** [<sup>:link:</sup>](https://www.beamandgo.com/)
