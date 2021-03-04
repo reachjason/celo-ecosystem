@@ -132,7 +132,7 @@ Feedback? Twitter @JasonRogues
 * **ZanshinDojo.org** 
 
 ### Interoperability
-* **Keep tBTC** [<sup>:link:</sup>](https://keep.network) [<sup>:computer:</sup>](https://github.com/keep-network/keep-core)
+* **Keep tBTC** - tBTC is a trustlessly Bitcoin-backed ERC-20 token on Celo Blockchain [<sup>:link:</sup>](https://keep.network) [<sup>:computer:</sup>](https://github.com/keep-network/keep-core)
 
 ### Payments
 * **Beam And Go** [<sup>:link:</sup>](https://www.beamandgo.com/)
