@@ -3,7 +3,7 @@ This is a living list that captures all the projects in the Celo ecosystem with 
 
 Suggestions for more apt descriptions? Missing projects? Pull requests are welcome on README.md (this file).
 
-Feedback? ![image](https://user-images.githubusercontent.com/23431890/109935540-b6c20d80-7cf3-11eb-8466-f855fb737402.png) @JasonRogues
+Feedback? Twitter @JasonRogues
 
 <sup>:link: - Website</sup>
 <sup>:page_facing_up: - Documentation</sup>
