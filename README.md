@@ -19,6 +19,7 @@ Feedback? Twitter @JasonRogues
     + [Ecosystem Funds](#ecosystem-funds)
     + [Exchanges and Liquidity](#exchanges-and-liquidity)
     + [Infrastructure](#infrastructure)
+    + [Interoperability](#interoperability)
     + [Payments](#payments)
     + [Research](#research)
     + [Security](#security)
@@ -126,6 +127,9 @@ Feedback? Twitter @JasonRogues
 * **Virtual Hive** 
 * **wotrust** 
 * **ZanshinDojo.org** 
+
+### Interoperability
+* **Keep tBTC** [<sup>:link:</sup>](https://github.com/keep-network/keep-core)
 
 ### Payments
 * **Beam And Go** [<sup>:link:</sup>](https://www.beamandgo.com/)
