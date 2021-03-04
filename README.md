@@ -3,7 +3,7 @@ This is a community-maintained living list that captures all the projects in the
 
 **Note**: This definitely has a lot of work in identifying projects.
 
-Suggestions for more apt descriptions? Missing projects? Pull requests are welcome on README.md (this file).
+Suggestions for more apt descriptions? Missing projects? Pull requests are welcome on README.md (this file). Or simply submit your project to [this form](https://forms.gle/rcxikkRRoS9FptC28).
 
 Feedback? Twitter @JasonRogues
 
